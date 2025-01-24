@@ -32,9 +32,27 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 In this course, you will:
 
 1. Add headers
+## HEAD Name is Piyaporn 
+
 2. Add an image
+![gitHub](https://foundations.projectpythia.org/_images/GitHub-logo.png)
+
 3. Add a code example
+git 
+```js
+var a = "A"
+var b = "B"
+
+```
+
 4. Make a task list
+
+```markdown
+The most popular programming language
+ - Python
+ - Java
+ - JavaScript
+```
 5. Merge your pull request
 
 ### How to start this course
